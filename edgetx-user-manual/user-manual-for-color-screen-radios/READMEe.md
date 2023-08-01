@@ -1,7 +1,8 @@
-# Manual de usuario para radios con pantalla color
+# User Manual for Color Screen Radios
 
 <figure><img src="../../.gitbook/assets/colorradios.jpg" alt=""><figcaption><p>EdgeTX supported color screen radios</p></figcaption></figure>
-EdgeTX soporta las siguientes radios con pantalla color:
+
+EdgeTX supports the following color screen radios:
 
 * FlySky NV14 / EL18
 * FrSky X10 / X10S / X10 Express / X10S Express
