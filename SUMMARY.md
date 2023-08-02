@@ -12,7 +12,7 @@
   * [Update from an earlier version of EdgeTX using the Bootloader](edgetx-user-manual/installing-and-updating-edgetx/update-from-an-earlier-version-of-edgetx-using-the-bootloader.md)
 * [Manual para radios con pantalla color](edgetx-user-manual/user-manual-for-color-screen-radios/README.md)
   * [Interfaz del usuario](edgetx-user-manual/user-manual-for-color-screen-radios/user-interface.md)
-  * [Manage Models](edgetx-user-manual/user-manual-for-color-screen-radios/select-model.md)
+  * [Administrar Modelos](edgetx-user-manual/user-manual-for-color-screen-radios/select-model.md)
   * [Model Settings](edgetx-user-manual/user-manual-for-color-screen-radios/model-settings/README.md)
     * [Model Setup](edgetx-user-manual/user-manual-for-color-screen-radios/model-settings/model-setup/README.md)
       * [Internal / External RF](edgetx-user-manual/user-manual-for-color-screen-radios/model-settings/model-setup/internal-external-rf.md)

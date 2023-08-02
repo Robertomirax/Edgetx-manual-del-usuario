@@ -1,12 +1,12 @@
-# Manage Models
+# Administrar Modelos
 
-The Manage Models screen allows you to create new models, select which model is active, create and apply model labels, and create model templates.
+En la pantalla de administración de modelos "MANAGE MODELS" se pueden crear nuevos modelos, seleccionar cual estará activo, crear nuevos, aplicarles etiquetas y crear plantillas.
 
-<figure><img src="../../.gitbook/assets/managemodels.png" alt=""><figcaption><p>Manage Models screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/managemodels.png" alt=""><figcaption><p>Pantalla de administración de modelos</p></figcaption></figure>
 
-### Selecting & managing existing models&#x20;
+### Selección y administración de modelos existentes&#x20;
 
-The active model's name will be highlighted (yellow in this case) and displayed on the screen's top bar. Double-tapping an active model will give you the following options:
+El nombre del modelo activo se verá destacado (amarillo en la imagen de muestra) and displayed on the screen's top bar. Double-tapping an active model will give you the following options:
 
 * **Duplicate model** - This option creates an exact duplicate of the model with the same name. Changes to the model name or other settings need to be made in the [Model Settings ](model-settings/)tab.
 * **Label Model** - When this option is selected, all configured labels will be displayed and can be selected for this model. More Information about [Model Labels](select-model.md#model-labels) is below.&#x20;

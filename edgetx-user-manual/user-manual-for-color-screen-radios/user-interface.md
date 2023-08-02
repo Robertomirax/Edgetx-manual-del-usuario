@@ -34,7 +34,7 @@ Ciertas radios están equipadas con una pantalla táctil. En estas radios, se pu
 Es possible deshabilitar la interfaz táctil, configurando una función especial. Ver Funciones especiales [special-functions.md](model-settings/special-functions.md "mention") para mas información.
 {% endhint %}
 
-Tocando el ícono EdgeTX en la esquina superior izquierda de la pantalla, se abre el menú de navegación principal. Tocando la opción deseada del menú, esta se seleccionará.
+Tocando el ícono EdgeTX en la esquina superior izquierda de la pantalla, se abre el menú de navegación principal. Luego tocando la opción deseada del menú, esta se seleccionará.
 
 <figure><img src="../../.gitbook/assets/mainmenu.png" alt=""><figcaption><p> Menú de navegación principal</p></figcaption></figure>
 
