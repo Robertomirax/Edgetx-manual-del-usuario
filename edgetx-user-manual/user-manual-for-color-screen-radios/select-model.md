@@ -9,7 +9,7 @@ En la pantalla de administración de modelos "MANAGE MODELS" se pueden crear nue
 El nombre del modelo activo se verá destacado (amarillo en la imagen de muestra), y también se mostrará en la barra superior de la pantalla. Pulsando sobre el modelo activo, nos dará las siguientes opciones:
 
 * **Duplicate model** - Esta opción crea un duplicado exacto del modelo con el mismo nombre. Para cambiar el nombre del modelo u otros ajustes, es necesario ir a la pestaña de configuración [Configuración del modelo ](model-settings/).
-* **Label Model** - Al seleccionar esta opción, se mostrarán todas las etiquetas y podrán ser asignadas a este modelo. Ver [Etiquetas de modelos](select-model.md#Etiquetas de modelos) mas abajo.&#x20;
+* **Label Model** - Al seleccionar esta opción, se mostrarán todas las etiquetas y podrán ser asignadas a este modelo. Ver [Etiquetas de modelos](select-model#Etiquetas-de-modelos) mas abajo.&#x20;
 * **Save as template** - this option saves a copy of the model as a model template.
 
 {% hint style="info" %}
