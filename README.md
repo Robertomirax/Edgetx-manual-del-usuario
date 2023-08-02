@@ -1,8 +1,8 @@
-# EdgeTX User Manual v2.9
+# EdgeTX Manual del Usuario v2.9
 
 <figure><img src=".gitbook/assets/logos (1).png" alt=""><figcaption></figcaption></figure>
 
-If you would like to contribute to this guide, please take a look at the [Contribute to the User Manual](edgetx-how-to/contribute-to-the-user-manual.md) page.
+Si deseas contribuir con este manual, mira por favor esta guia [Contribute to the User Manual](edgetx-how-to/contribute-to-the-user-manual.md).
 
 The purpose of this user manual is to consolidate information from the community about the setup, configuration, and use of EdgeTX. The goal is to be your "one-stop shop" for information about anything related to EdgeTX. It is broken down into the following areas:
 
