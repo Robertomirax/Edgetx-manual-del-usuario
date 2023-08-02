@@ -37,7 +37,7 @@ Para crear un modelo nuevo, se debe seleccionar el botón **New Model** en la es
 
 ### Etiquetas de modelos
 
-Pueden asignarse a cada modelo una o mas etiquetas. Esto permite filtrar la búsqueda de un modelo, basándose en las etiquetas seleccionadas. Facilitando la selección cuando se han configurado muchos modelos. Por defecto vienen creadas de fábrica las etiquetas (Favoritos) **Favorites** y (sin etiqueta) **Unlabeled**. Todos los modelos se consideran (sin etiqueta) **unlabeled** mientras no tengan ninguna asigada.
+Pueden asignarse a cada modelo una o mas etiquetas. Esto permite filtrar la búsqueda de un modelo, basándose en las etiquetas seleccionadas y facilitando la selección cuando se han configurado muchos modelos. Por defecto vienen creadas de fábrica las etiquetas (Favoritos) **Favorites** y (sin etiqueta) **Unlabeled**. Todos los modelos se consideran (sin etiqueta) **unlabeled** mientras no tengan ninguna asigada.
 
 <figure><img src="../../.gitbook/assets/labelfilters.png" alt=""><figcaption><p>Filtrado y ordenamiento de los modelos por sus etiquetas</p></figcaption></figure>
 
