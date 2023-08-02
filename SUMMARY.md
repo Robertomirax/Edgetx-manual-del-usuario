@@ -1,6 +1,6 @@
 # Table of contents
 
-* [EdgeTX User Manual v2.9](README.md)
+* [EdgeTX Manual del usuario v2.9](README.md)
 
 ## EdgeTX User Manual
 
