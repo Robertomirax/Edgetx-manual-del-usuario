@@ -6,7 +6,7 @@ La pantalla de configuración del modelo **Model Settings** contiene todas las o
 
 The icons at the top of the screen include (in order from left to right):
 
-* [Model Setup](model-setup/)
+* [MODEL SETUP](model-setup/)
 * [Heli Setup](heli-setup.md) (only visible if EdgeTX is custom compiled with this option.)
 * [Flight modes](flight-modes.md)
 * [Inputs](inputs-mixes-and-outputs/inputs.md)
