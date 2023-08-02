@@ -9,64 +9,64 @@ En la pantalla de administración de modelos "MANAGE MODELS" se pueden crear nue
 El nombre del modelo activo se verá destacado (amarillo en la imagen de muestra), y también se mostrará en la barra superior de la pantalla. Pulsando sobre el modelo activo, nos dará las siguientes opciones:
 
 * **Duplicate model** - Esta opción crea un duplicado exacto del modelo con el mismo nombre. Para cambiar el nombre del modelo u otros ajustes, es necesario ir a la pestaña de configuración [Configuración del modelo ](model-settings/).
-* **Label Model** - Al seleccionar esta opción, se mostrarán todas las etiquetas y podrán ser asignadas a este modelo. Ver [Etiquetas de modelos](select-model.md#etiquetas-de-modelos) is below.&#x20;
-* **Save as template** - this option saves a copy of the model as a model template.
+* **Label Model** - Al seleccionar esta opción, se mostrarán todas las etiquetas y podrán ser asignadas a este modelo. Ver [Etiquetas de modelos](select-model.md#etiquetas-de-modelos) mas abajo.&#x20;
+* **Save as template** - Esta opción guarda una copia del modelo como plantilla de base para otros modelos.
 
 {% hint style="info" %}
-Changes to models saved as templates do not update the templates themselves.
+Los cambios echos a modelos que se han guardado como plantilla, no afectan a las plantillas en si.
 {% endhint %}
 
-Double-tapping on a non-active model (unhighlighted) will give you the following options:
+Al presionar dos veces seguidas, sobre un modelo que no está activo (no destacado), se abrirán las siguientes opciones:
 
-* **Select model** - this option selects this model as the active model.
-* **Duplicate model** - same as described above.
-* **Delete model** - this option moves the model to the deleted folder on the SD Card. _Only models that are not active can be deleted._
-* **Label model** - same as described above.
-* **Save as template** - same as described above.
+* **Select model** - Esta opción selecciona el modelo como activo.
+* **Duplicate model** - Esta opción crea un duplicado exacto del modelo con el mismo nombre. Para cambiar el nombre del modelo u otros ajustes, es necesario ir a la pestaña de configuración [Configuración del modelo ](model-settings/).
+* **Delete model** - Borra el modelo moviéndolo a la carpeta "deleted" en la tarjeta SD. _Solo se puede borrar el modelo si no está activo._
+* **Label model** - Al seleccionar esta opción, se mostrarán todas las etiquetas y podrán ser asignadas a este modelo. Ver [Etiquetas de modelos](select-model.md#etiquetas-de-modelos) mas abajo.&#x20;
+* **Save as template** - Esta opción guarda una copia del modelo como plantilla de base para otros modelos.
 
-### Creating a new model
+### Creación de un modelo nuevo
 
-To create a new model, select the **New Model** button in the upper right corner. You will then be presented with the following options:&#x20;
+Para crear un modelo nuevo, se debe seleccionar el botón **New Model** en la esquina superior izquierda. Aparecerán las siguientes opciones:&#x20;
 
-<figure><img src="../../.gitbook/assets/newmodel.png" alt=""><figcaption><p>New model options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/newmodel.png" alt=""><figcaption><p>Opciones para modelo nuevo</p></figcaption></figure>
 
-* **Blank Model** - This will create a blank model with only the default options configured.
-* **PERSONAL** - This option will allow you to select one of your saved model templates and then create a copy of it as a new model.
-* **SoarETX** - This will display pre-configured model templates for radio-controlled model sailplanes.
-* **WIZARD** - This will launch the new model wizard and create the model as configured in the wizard.
+* **Blank Model** - Se creará un modelo nuevo en blanco, con las opciones configuradas por defecto.
+* **PERSONAL** - Esta opción permite seleccionar una plantilla y crear una copia como modelo nuevo.
+* **SoarETX** - Esta opción permite seleccionar una plantilla preconfigurada de fábrica, para planeadores.
+* **WIZARD** - Esta opción lanza el asistente de configuración para un nuevo modelo.
 
 ### Etiquetas de modelos
 
-Model labels allow you to give each model one or more labels. You are then able to filter the models displayed in the **Model Select** screen based on the labels that you select. This allows people with many configured models to find them easier.  By default, the **Favorites** and **Unlabeled** labels are created automatically. All models are considered **unlabeled** until a label is applied to them.
+Pueden asignarse a cada modelo una o mas etiquetas. Esto permite filtrar la búsqueda de un modelo, basándose en las etiquetas seleccionadas. Facilitando la selección cuando se han configurado muchos modelos. Por defecto vienen creadas de fábrica las etiquetas (Favoritos) **Favorites** y (sin etiqueta) **Unlabeled**. Todos los modelos se consideran (sin etiqueta) **unlabeled** mientras no tengan ninguna asigada.
 
-<figure><img src="../../.gitbook/assets/labelfilters.png" alt=""><figcaption><p>Model label filters and sorting</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/labelfilters.png" alt=""><figcaption><p>Filtrado y ordenamiento de los modelos por sus etiquetas</p></figcaption></figure>
 
-### Filtering models using labels
+### Filtrado de los modelos usando sus etiquetas
 
-To filter the visible models based on their labels, select the filter or filters from the left column. It will automatically filter out the models that do not have those model labels.
+Para filtrar los modelos en base a sus etiquetas. Se deben seleccionar la o las etiquetas de filtro en la columna izquierda. Esto quitará de la pantalla, todos los modelos que no tengan estas etiquetas.
 
-### Assigning labels to models
+### Asignación de etiquetas a los modelos
 
-To assign a label to a model, double-tap on the model or press **\[Enter]** when the model is selected and then select **Label Models**. Once selected, all configured labels will be displayed and one or more labels can be selected for this model. Labels applied to the model will be designated with a _**check**_ icon.
+Para asignar una etiqueta a un modelo. Se debe presionar dos veces sobre el mismo o presionar el rodillo cuando el modelo ya está seleccionado. Luego seleccionar **Label Model**. Se mostrarán todas la etiquetas disponibles, permitiendo la selección de una o mas. Las etiquetas seleccionadas se mostrarán con un _**tilde**_.
 
-### Creating new model labels
+### Creación de etiquetas nuevas
 
-To create a new model label, select the **New** button on the bottom left of the screen. The **Enter Label** pop-up will appear and you can enter the desired label name. Select **Save** to save the new label.
+Para crear una etiqueta nueva, se debe seleccionar el botón **New** abajo a la derecha de la pantalla. Se mostrará el menú **Enter Label** donde se puede ingresar el nombre para la etiqueta. Con **Save** se guarda la nueva etiqueta y con **Cancel** se cancela la operación.
 
-### Editing model labels
+### Edición de etiquetas
 
-Long press \[Enter] or long tap on desired label and you be shown a menu with the following options:
+Manteniendo presionado el rodillo o manteniendo la presión del dedo sobre la etiqueta deseada. Se mostrará un menú con las siguientes opciones:
 
-* Rename Label - change the label's name
-* Delete Label - Deletes the label from the label list and from all models that have it assigned.&#x20;
-* Move Up - positions the label higher on the list&#x20;
-* Move Down - - positions the label lower on the list
+* Rename Label - Cambia el nombre de la etiqueta.
+* Delete Label - Borra la etiqueta de la lista y de todos los modelos que la tengan asignada.&#x20;
+* Move Up - Posiciona la etiqueta mas arriba en la lista.&#x20;
+* Move Down - Posiciona la etiqueta mas abajo en la lista.
 
-### Sorting Models
+### Orden de los modelos
 
-The icons below the label list are for sorting the filtered models. Models can be sorted either alphabetically or by the last time they were selected as described in the image below.
+Los íconos debajo de la lista de etiquetas, sirven para ordenar el listado de modelos. Estos pueden ser ordenados alfabéticamente o por la última vez que fueron seleccionados.
 
-<figure><img src="../../.gitbook/assets/labelsort.jpg" alt=""><figcaption><p>Sorting icon definitions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/labelsort.jpg" alt=""><figcaption><p> Orden definida por los íconos</p></figcaption></figure>
 
 
 
