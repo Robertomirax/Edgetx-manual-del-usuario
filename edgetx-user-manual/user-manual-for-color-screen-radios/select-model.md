@@ -8,8 +8,8 @@ En la pantalla de administración de modelos "MANAGE MODELS" se pueden crear nue
 
 El nombre del modelo activo se verá destacado (amarillo en la imagen de muestra), y también se mostrará en la barra superior de la pantalla. Pulsando sobre el modelo activo, nos dará las siguientes opciones:
 
-* **Duplicate model** - Esta opción crea un duplicado exacto del modelo con el mismo nombre. Para cambiar el nombre del modelo u otros ajustes, es necesario ir a la pestaña de configuración [Configuración del modelo ](model-settings/)tab.
-* **Label Model** - When this option is selected, all configured labels will be displayed and can be selected for this model. More Information about [Model Labels](select-model.md#model-labels) is below.&#x20;
+* **Duplicate model** - Esta opción crea un duplicado exacto del modelo con el mismo nombre. Para cambiar el nombre del modelo u otros ajustes, es necesario ir a la pestaña de configuración [Configuración del modelo ](model-settings/).
+* **Label Model** - Al seleccionar esta opción, se mostrarán todas las etiquetas y podrán ser asignadas a este modelo. Ver [Etiquetas de modelos](select-model.md#Etiquetas-de-modelos) mas abajo.&#x20;
 * **Save as template** - this option saves a copy of the model as a model template.
 
 {% hint style="info" %}
@@ -35,7 +35,7 @@ To create a new model, select the **New Model** button in the upper right corner
 * **SoarETX** - This will display pre-configured model templates for radio-controlled model sailplanes.
 * **WIZARD** - This will launch the new model wizard and create the model as configured in the wizard.
 
-### Model Labels
+### Etiquetas de modelos
 
 Model labels allow you to give each model one or more labels. You are then able to filter the models displayed in the **Model Select** screen based on the labels that you select. This allows people with many configured models to find them easier.  By default, the **Favorites** and **Unlabeled** labels are created automatically. All models are considered **unlabeled** until a label is applied to them.
 
