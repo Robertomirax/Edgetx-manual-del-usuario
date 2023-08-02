@@ -6,9 +6,9 @@ En la pantalla de administración de modelos "MANAGE MODELS" se pueden crear nue
 
 ### Selección y administración de modelos existentes&#x20;
 
-El nombre del modelo activo se verá destacado (amarillo en la imagen de muestra), y también se mostrará en la barra superior de la pantalla. Pulsando dos veces sobre el modelo activo, nos dará las siguientes opciones:
+El nombre del modelo activo se verá destacado (amarillo en la imagen de muestra), y también se mostrará en la barra superior de la pantalla. Pulsando sobre el modelo activo, nos dará las siguientes opciones:
 
-* **Duplicate model** - This option creates an exact duplicate of the model with the same name. Changes to the model name or other settings need to be made in the [Model Settings ](model-settings/)tab.
+* **Duplicate model** - Esta opción crea un duplicado exacto del modelo con el mismo nombre. Para cambiar el nombre del modelo u otros ajustes, es necesario ir a la pestaña de configuración [Configuración del modelo ](model-settings/)tab.
 * **Label Model** - When this option is selected, all configured labels will be displayed and can be selected for this model. More Information about [Model Labels](select-model.md#model-labels) is below.&#x20;
 * **Save as template** - this option saves a copy of the model as a model template.
 
