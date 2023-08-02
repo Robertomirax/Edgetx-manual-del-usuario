@@ -2,7 +2,7 @@
 
 <figure><img src="../../../.gitbook/assets/modelsetup.png" alt=""><figcaption></figcaption></figure>
 
-The **Model Settings** screen contains all the options to configure your model. Across the top of the page you will see icons that will take you to different pages of model settings when selected. The default screen for model settings is the[model-setup](model-setup/ "mention") screen.&#x20;
+La pantalla de configuración del modelo **Model Settings** contiene todas las opciones de configuración del mismo. En el borde superior de la pantalla, están los accesos a los diferentes ajustes. La pantalla por defecto que aparece es la que corresponde a los ajustes iniciales[MODEL-SETUP](model-setup/ "mention") screen.&#x20;
 
 The icons at the top of the screen include (in order from left to right):
 
