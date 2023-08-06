@@ -2,11 +2,11 @@
 
 <figure><img src="../../../.gitbook/assets/modelsetup.png" alt=""><figcaption></figcaption></figure>
 
-La pantalla de configuración del modelo **Model Settings** contiene todas las opciones de configuración del mismo. En el borde superior de la pantalla, están los accesos a los diferentes ajustes. La pantalla por defecto que aparece es la que corresponde a los ajustes iniciales[MODEL-SETUP](model-setup/ "mention") screen.&#x20;
+La pantalla de configuración del modelo **Model Settings** contiene todas las opciones de configuración del mismo. En el borde superior de la pantalla, están los accesos a los diferentes ajustes. La pantalla por defecto que aparece es la que corresponde a los ajustes iniciales[MODEL-SETUP](model-setup/ "mention").&#x20;
 
-The icons at the top of the screen include (in order from left to right):
+En el borde superior de la pantalla aparecen los siguientes iconos en orden de izquierda a derecha:
 
-* [MODEL SETUP](model-setup/)
+* [MODEL SETUP](model-setup/) (ajustes del modelo).
 * [Heli Setup](heli-setup.md) (only visible if EdgeTX is custom compiled with this option.)
 * [Flight modes](flight-modes.md)
 * [Inputs](inputs-mixes-and-outputs/inputs.md)
