@@ -16,12 +16,12 @@ La sección "Cómo se hace", provee información detallada, acerca de la configu
 
 #### **EdgeTX Manual del asistente (planeado)** <a href="#edgetx-companion-user-manual-planned" id="edgetx-companion-user-manual-planned"></a>
 
-La guía de uso para el asistente de EdgeTX. Cubrirá las funciones y características, del asistente de EdgeTX (EdgeTX Companion) y del simulador de EdgeTX así como también, casos de uso común para ambos.  _Nota: Esta sección está planeada, pero todavía no se a comnzado a trabajar en ella._
+La guía de uso para el asistente de EdgeTX. Cubrirá las funciones y características, del asistente de EdgeTX (EdgeTX Companion) y del simulador de EdgeTX así como también, casos de uso común para ambos.  _Nota: Esta sección está planeada, pero todavía no se a comenzado a trabajar en ella._
 
-#### Recursos adicionales para EdgeTX <a href="#additional-edgetx-resources" id="additional-edgetx-resources"></a>
+#### EdgeTX Recursos adicionales <a href="#additional-edgetx-resources" id="additional-edgetx-resources"></a>
 
 Esta sección contendrá enlaces, a los recursos adicionales que puedan ser útiles para los usuarios. Las páginas externas enlazadas, no són mantenidas por EdgeTX. Sin embargo son listadas por que contienen información adicional importante.
 
 #### Se agradece de forma especial, a aquellos colaboradores, que contribuyen a esta base de conocimientos, de forma directa o indirecta. <a href="#special-thanks-to-those-that-contributed-to-this-knowledge-base-either-directly-or-indirectly." id="special-thanks-to-those-that-contributed-to-this-knowledge-base-either-directly-or-indirectly."></a>
 
-See the [Colaboradores ](https://app.gitbook.com/o/-MgQ7Ok46bXLbvoz\_AeM/s/G9cXG2SsywqpT8oP5rLH/more/contributors)section for a list of direct and indirect contributors.
+En al sección de [Colaboradores ](https://app.gitbook.com/o/-MgQ7Ok46bXLbvoz\_AeM/s/G9cXG2SsywqpT8oP5rLH/more/contributors) se encuentra la lista, de aquellos que colaboran de forma directa o indirecta.
