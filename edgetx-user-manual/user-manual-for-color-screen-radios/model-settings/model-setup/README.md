@@ -18,14 +18,14 @@ Se ingresa el nombre del modelo con un máximo de 15 caracteres.
 
 #### Labels (etiquetas)
 
-Aquí es posible asignarle al modelo, una etiqueta de las que se encuentran en la lista de etiquetas ya definida. Por defecto aparece asignada la etiqueta **Unlabeled. (sin etiqueta)** Para mas información sobre la creación de etiquetas, ver [select-model.md](../../select-model.md "mention") .
+Aquí es posible asignarle al modelo, una etiqueta de las que se encuentran en la lista de etiquetas ya definida. Por defecto aparece asignada la etiqueta **Unlabeled. (sin etiqueta)** Para más información sobre la creación de etiquetas, ver [select-model.md](../../select-model.md "mention") .
 
-#### Model image
+#### Model image (imagen)
 
-When the folder icon is selected, a window will pop up allowing you to select an image file from the images folder on your SD Card.
+Mediante este botón se puede seleccionar una imagen para el modelo, de la lista de imágenes que se encuentra en la carpeta "images" de la tarjeta SD.
 
 {% hint style="info" %}
-To avoid performance issues, the model image size should not exceed 192 x 114 pixels. For more information on model image requirements, please see the **Images** portion of the [SD Card](../../radio-settings/sd-card.md) section.
+Para evitar problemas de rendimiento. La imagen no debe exceder, 192 X 114 pixeles. Para más información sobre los requerimientos de la imagen, ver por favor la sección **Images** portion of the [SD Card (tarjeta SD)](../../radio-settings/sd-card.md) section.
 {% endhint %}
 
 {% hint style="info" %}
