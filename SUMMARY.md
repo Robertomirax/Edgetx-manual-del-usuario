@@ -5,11 +5,11 @@
 ## EdgeTX User Manual
 
 * [Lista de cambios desde la versión v2.8](edgetx-user-manual/summary\_of\_changes.md)
-* [Installing and Updating EdgeTX](edgetx-user-manual/installing-and-updating-edgetx/README.md)
-  * [Migrate from OpenTX to EdgeTX using EdgeTX Buddy](edgetx-user-manual/installing-and-updating-edgetx/update-from-opentx-to-edgetx.md)
-  * [Migrate from OpenTX to EdgeTX using the Bootloader](edgetx-user-manual/installing-and-updating-edgetx/migrate-from-opentx-to-edgetx-using-the-bootloader.md)
-  * [Update from an earlier version of EdgeTX using EdgeTX Buddy](edgetx-user-manual/installing-and-updating-edgetx/update-from-opentx-to-edgetx-1.md)
-  * [Update from an earlier version of EdgeTX using the Bootloader](edgetx-user-manual/installing-and-updating-edgetx/update-from-an-earlier-version-of-edgetx-using-the-bootloader.md)
+* [Instalación y actualización de EdgeTX](edgetx-user-manual/installing-and-updating-edgetx/README.md)
+  * [Migración desde OpenTX a EdgeTX usando EdgeTX Buddy](edgetx-user-manual/installing-and-updating-edgetx/update-from-opentx-to-edgetx.md)
+  * [Migración desde OpenTX a EdgeTX usando el gestor de arranque](edgetx-user-manual/installing-and-updating-edgetx/migrate-from-opentx-to-edgetx-using-the-bootloader.md)
+  * [Actualización desde una versión de EdgeTX usando EdgeTX Buddy](edgetx-user-manual/installing-and-updating-edgetx/update-from-opentx-to-edgetx-1.md)
+  * [Actualización desde una versión de EdgeTX usando el gestor de arranque](edgetx-user-manual/installing-and-updating-edgetx/update-from-an-earlier-version-of-edgetx-using-the-bootloader.md)
 * [Manual para radios con pantalla color](edgetx-user-manual/user-manual-for-color-screen-radios/README.md)
   * [Interfaz del usuario](edgetx-user-manual/user-manual-for-color-screen-radios/user-interface.md)
   * [Administrar modelos](edgetx-user-manual/user-manual-for-color-screen-radios/select-model.md)

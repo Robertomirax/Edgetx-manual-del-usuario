@@ -1,43 +1,43 @@
 # Installing and Updating EdgeTX
 
-There are several ways to install or update EdgeTX on your radio transmitter. You can use the online tool EdgeTX buddy or manually install/update the bootloader and firmware using the bootloader method. There are advantages and disadvantages to both ways, so really, it boils down to person preference.
+Existen varias maneras de instalar o actualizar EdgeTX en el transmisor. Se puede usar la herramienta en linea "EdgeTX buddy" o se puede hacer en forma manual, (tanto la instalación del gestor de arranque como la del firmware), usando el gestor de arranque. Existen ventajas y desventajas para ambos métodos. Así que en realidad la decisión se reduce a las preferencias de cada persona.
 
 ### EdgeTX Buddy
 
-#### Pros
+#### Ventajas
 
-* Firmware and SD card contents are all located in one location
-* It takes you step by step through the process
-* Normally a simple process.
+* Tanto el firmware como el contenido de la tarjeta SD, se encuentran localizados en un solo lugar.
+* El sistema va guiando paso a paso durante todo el proceso.
+* Normalmente es un proceso simple.
 
-#### Cons
+#### Desventajas
 
-* Must use a Chromium-based browser to access (Chrome, MS Edge, Brave, Opera, etc.)
-* You must have the correct SMT32 drivers installed on your computer. Usually, this is automatic. However, some computers install incorrect drivers, which can make this process more difficult.&#x20;
+* Debe usarse un explorador basado en Chromium (Chrome, MS Edge, Brave, Opera, etc.)
+* Deben estar instalados en el computador los drivers SMT32 correctos. Usualmente esto es automático. Sin embargo, algunos computadores instalan los drivers incorrectos y esto hace el proceso mas dificil.&#x20;
 
-### Bootloader Method
+### Usando el Gestor de Arranque
 
-#### Pros
+#### Ventajas
 
-* Flashing always works
-* The flashing process is quicker.
-* Does not rely on your computer for flashing
+* La grabación siempre funciona.
+* El proceso de grabación es más rápido.
+* No depende del computador para efectuar la grabación.
 
-#### Cons&#x20;
+#### Desventajas&#x20;
 
-* Firmware, SD Card, and Sound files must be downloaded individually from different locations and placed manually on the SD Card.
+* Deben descargarse en forma individual, el firmware, el contenido de la tarjeta SD, y los archivos de sonido, desde diferentes lugares y alojados en forma manual, en la tarjeta SD.
 
-**Whichever way you choose, there is a guide that will help you. Below are the migration guides and installation guides for both methods:**
+**Cualquiera que sea el método elegido, hay una guía de ayuda. Las siguientes son las guías de instalación y migración, para ambos métodos:**
 
-### Migrate from OpenTX to EdgeTX&#x20;
+### Migración desde OpenTX a EdgeTX&#x20;
 
-[Migrate from OpenTX to EdgeTX using EdgeTX Buddy](update-from-opentx-to-edgetx.md)
+[Migración desde OpenTX a EdgeTX usando EdgeTX Buddy](update-from-opentx-to-edgetx.md)
 
-[Migrate from OpenTX to EdgeTX using the Bootloader](migrate-from-opentx-to-edgetx-using-the-bootloader.md)
+[Migración desde OpenTX a EdgeTX usando el gestor de arranque](migrate-from-opentx-to-edgetx-using-the-bootloader.md)
 
-### Update from an earlier version of EdgeTX
+### Actualización desde una versión anterior de EdgeTX
 
-[Update from an earlier version of EdgeTX using EdgeTX Buddy](update-from-opentx-to-edgetx-1.md)
+[Actualización desde una versión de EdgeTX usando EdgeTX Buddy](update-from-opentx-to-edgetx-1.md)
 
-[Update from an earlier version of EdgeTX using the Bootloader](update-from-an-earlier-version-of-edgetx-using-the-bootloader.md)
+[Actualización desde una versión de EdgeTX usando el gestor de arranque](update-from-an-earlier-version-of-edgetx-using-the-bootloader.md)
 
