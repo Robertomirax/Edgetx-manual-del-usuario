@@ -83,16 +83,16 @@
     * [Version](b-and-w-radios/radio-settings/version.md)
 * [Translated User Manuals](translated-user-manuals.md)
 
-## EdgeTX: How-To
+## EdgeTX: Como se hace
 
-* [Contribute to the User Manual](edgetx-how-to/contribute-to-the-user-manual.md)
+* [Contribuir al manual del usuario](edgetx-how-to/contribute-to-the-user-manual.md)
 * [Set-up wireless trainer with a Multi -protocol module](edgetx-how-to/set-up-wireless-trainer-with-mpm.md)
 
-## EdgeTX Companion
+## EdgeTX Asistente (Companion)
 
-* [🚧 Companion User Manual](edgetx-companion/companion-user-manual.md)
+* [🚧 Manual del asistente (Companion)](edgetx-companion/companion-user-manual.md)
 
 ## More
 
-* [Additional Resources](more/additional-resources.md)
-* [Contributors](more/contributors.md)
+* [Recursos adicionales](more/additional-resources.md)
+* [Colaboradores](more/contributors.md)

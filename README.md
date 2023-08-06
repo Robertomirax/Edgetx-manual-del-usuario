@@ -2,26 +2,26 @@
 
 <figure><img src=".gitbook/assets/logos (1).png" alt=""><figcaption></figcaption></figure>
 
-Si deseas contribuir con este manual, mira por favor esta guia [Contribute to the User Manual](edgetx-how-to/contribute-to-the-user-manual.md).
+Si deseas contribuir con este manual, mira por favor esta guia [Contribuir al manual del usuario](edgetx-how-to/contribute-to-the-user-manual.md).
 
-The purpose of this user manual is to consolidate information from the community about the setup, configuration, and use of EdgeTX. The goal is to be your "one-stop shop" for information about anything related to EdgeTX. It is broken down into the following areas:
+El propósito de este manual, es consolidar la información para la comunidad, acerca de la configuración, ajustes y uso de EdgeTX. El objetivo es abarcar toda la información relacionada con EdgeTX. Este manual está dividido con las siguientes secciones:
 
-#### EdgeTX User Manual <a href="#edgetx-user-manual" id="edgetx-user-manual"></a>
+#### EdgeTX Manual del usuario <a href="#edgetx-user-manual" id="edgetx-user-manual"></a>
 
-The user guide explains all the configuration options available in EdgeTX as well as some high-level theoretical information about EdgeTX usage and model controls. It is broken into sections - one section covering the interface for [Color Screen Radios](https://app.gitbook.com/o/-MgQ7Ok46bXLbvoz\_AeM/s/G9cXG2SsywqpT8oP5rLH/edgetx-user-manual/user-manual-for-color-screen-radios) and one section covering the interface for [Black and White screen radios](https://app.gitbook.com/o/-MgQ7Ok46bXLbvoz\_AeM/s/G9cXG2SsywqpT8oP5rLH/b-and-w-radios).
+Esta guía para el usuario, explica la configuración de todas las opciones disponibles en EdgeTX, así como también, informaciones de alto nivel acerca del uso de EdgeTX y controles de los modelos. Está dividida en varias secciones - una sección, cubre la interfaz para [Radios con Pantalla Color](https://app.gitbook.com/o/-MgQ7Ok46bXLbvoz\_AeM/s/G9cXG2SsywqpT8oP5rLH/edgetx-user-manual/user-manual-for-color-screen-radios) y otra sección cubre la interfaz para [Radios con Pantalla Blanco y Negro](https://app.gitbook.com/o/-MgQ7Ok46bXLbvoz\_AeM/s/G9cXG2SsywqpT8oP5rLH/b-and-w-radios).
 
-#### EdgeTX How-to <a href="#edgetx-how-to" id="edgetx-how-to"></a>
+#### EdgeTX Como se hace <a href="#edgetx-how-to" id="edgetx-how-to"></a>
 
-The How-to section will provide detailed instructions about how to configure model or user-specific use cases in EdgeTX. It will cover common use cases as well as rare and specific use cases. This section of the manual will steadily grow as new How-to articles are submitted by contributors.
+La sección "Cómo se hace", provee información detallada, acerca de la configuración del modelo y casos de uso especial en EdgeTX. Se cubrirán casos de uso común y también casos de uso raro y específico. Esta sección irá creciendo a medida que los colaboradores envíen nuevos artículos.
 
-#### **EdgeTX Companion User Manual (planned)** <a href="#edgetx-companion-user-manual-planned" id="edgetx-companion-user-manual-planned"></a>
+#### **EdgeTX Manual del asistente (planeado)** <a href="#edgetx-companion-user-manual-planned" id="edgetx-companion-user-manual-planned"></a>
 
-The EdgeTX Companion User Guide will cover the different features and functions of EdgeTX Companion and the EdgeTX Simulator as well as common use cases for both. _Note: This section is currently planned, but work on it has not been started._
+La guía de uso para el asistente de EdgeTX. Cubrirá las funciones y características, del asistente de EdgeTX (EdgeTX Companion) y del simulador de EdgeTX así como también, casos de uso común para ambos.  _Nota: Esta sección está planeada, pero todavía no se a comnzado a trabajar en ella._
 
-#### Additional EdgeTX Resources <a href="#additional-edgetx-resources" id="additional-edgetx-resources"></a>
+#### Recursos adicionales para EdgeTX <a href="#additional-edgetx-resources" id="additional-edgetx-resources"></a>
 
-This section of the knowledge base will contain links to additional resources that EdgeTX users may find useful. The external pages that are linked here are not maintained by EdgeTX. However, they are listed as they may be useful sources of additional information relating to EdgeTX.
+Esta sección contendrá enlaces, a los recursos adicionales que puedan ser útiles para los usuarios. Las páginas externas enlazadas, no són mantenidas por EdgeTX. Sin embargo son listadas por que contienen información adicional importante.
 
-#### Special thanks to those that contributed to this knowledge base either directly or indirectly. <a href="#special-thanks-to-those-that-contributed-to-this-knowledge-base-either-directly-or-indirectly." id="special-thanks-to-those-that-contributed-to-this-knowledge-base-either-directly-or-indirectly."></a>
+#### Se agradece de forma especial, a aquellos colaboradores, que contribuyen a esta base de conocimientos, de forma directa o indirecta. <a href="#special-thanks-to-those-that-contributed-to-this-knowledge-base-either-directly-or-indirectly." id="special-thanks-to-those-that-contributed-to-this-knowledge-base-either-directly-or-indirectly."></a>
 
-See the [Contributors ](https://app.gitbook.com/o/-MgQ7Ok46bXLbvoz\_AeM/s/G9cXG2SsywqpT8oP5rLH/more/contributors)section for a list of direct and indirect contributors.
+See the [Colaboradores ](https://app.gitbook.com/o/-MgQ7Ok46bXLbvoz\_AeM/s/G9cXG2SsywqpT8oP5rLH/more/contributors)section for a list of direct and indirect contributors.
