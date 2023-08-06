@@ -7,13 +7,13 @@ La pantalla de configuración del modelo **Model Settings** contiene todas las o
 En el borde superior de la pantalla aparecen los siguientes iconos en orden de izquierda a derecha:
 
 * [MODEL SETUP](model-setup/) (ajustes del modelo).
-* [Heli Setup](heli-setup.md) (only visible if EdgeTX is custom compiled with this option.)
-* [Flight modes](flight-modes.md)
-* [Inputs](inputs-mixes-and-outputs/inputs.md)
-* [Mixes](inputs-mixes-and-outputs/mixes.md)
-* [Outputs](inputs-mixes-and-outputs/outputs.md)
-* [Curves](curves.md)
-* [Global Variables](global-variables.md)
-* [Logical Switches](logical-switches.md)
-* [Special Functions](special-functions.md)
-* [Telemetry](telemetry/)
+* [Heli Setup](heli-setup.md) (ajustes para helicópteros),( este ajuste es visible, si se ha compilado EdgeTX con esta opción.)
+* [Flight modes](flight-modes.md) (modos de vuelo).
+* [Inputs](inputs-mixes-and-outputs/inputs.md) (entradas).
+* [Mixes](inputs-mixes-and-outputs/mixes.md) (mezclas).
+* [Outputs](inputs-mixes-and-outputs/outputs.md) (salidas).
+* [Curves](curves.md) (curvas).
+* [Global Variables](global-variables.md) (variables globales).
+* [Logical Switches](logical-switches.md) (interruptores lógicos).
+* [Special Functions](special-functions.md) (funciones especiales).
+* [Telemetry](telemetry/) (telemetría).
