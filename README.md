@@ -24,4 +24,4 @@ Esta sección contendrá enlaces, a los recursos adicionales que puedan ser úti
 
 #### Se agradece de forma especial, a aquellos colaboradores, que contribuyen a esta base de conocimientos, de forma directa o indirecta. <a href="#special-thanks-to-those-that-contributed-to-this-knowledge-base-either-directly-or-indirectly." id="special-thanks-to-those-that-contributed-to-this-knowledge-base-either-directly-or-indirectly."></a>
 
-En al sección de [Colaboradores ](https://app.gitbook.com/o/-MgQ7Ok46bXLbvoz\_AeM/s/G9cXG2SsywqpT8oP5rLH/more/contributors) se encuentra la lista, de aquellos que colaboran de forma directa o indirecta.
+En al sección de [Colaboradores ](https://app.gitbook.com/o/-MgQ7Ok46bXLbvoz\_AeM/s/G9cXG2SsywqpT8oP5rLH/more/contributors) se encuentra la lista, de aquellos que colaboran con este manual, de forma directa o indirecta.
