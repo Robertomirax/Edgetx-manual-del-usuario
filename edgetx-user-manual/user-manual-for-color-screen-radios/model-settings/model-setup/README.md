@@ -1,24 +1,24 @@
 ---
-description: General model settings
+description: Ajustes generales del modelo
 ---
 
 # Model Setup
 
 <div align="center">
 
-<figure><img src="../../../../.gitbook/assets/modelsetup.png" alt=""><figcaption><p>Model Setup tab under Model Settings</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/modelsetup.png" alt=""><figcaption><p>Pestaña de ajustes en la pantalla de configuración</p></figcaption></figure>
 
 </div>
 
-The **model setup** page is the default page for model settings and is where you start to configure your model. It contains the following settings:
+La página **model setup (ajustes del modelo)** es la página por defecto que aparece en la pantalla de configuración del modelo. Es el inicio de la configuración. Contiene los siguientes ajustes:
 
-#### Model name
+#### Model name (nombre del modelo)
 
-Enter the desired name for the model. The maximum number of characters is 15.
+Se ingresa el nombre del modelo con un máximo de 15 caracteres.
 
-#### Labels
+#### Labels (etiquetas)
 
-Here you may assign a label from your defined label list.  By default, the model label will be **Unlabeled.** More information on creating labels can be found on the  [select-model.md](../../select-model.md "mention") page.
+Aquí es posible asignarle al modelo, una etiqueta de las que se encuentran en la lista de etiquetas ya definida. Por defecto aparece asignada la etiqueta **Unlabeled. (sin etiqueta)** Para mas información sobre la creación de etiquetas, ver [select-model.md](../../select-model.md "mention") .
 
 #### Model image
 
