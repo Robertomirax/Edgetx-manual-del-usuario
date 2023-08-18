@@ -25,19 +25,19 @@ Aquí es posible asignarle al modelo, una etiqueta de las que se encuentran en l
 Mediante este botón se puede seleccionar una imagen para el modelo, de la lista de imágenes que se encuentra en la carpeta "images" de la tarjeta SD.
 
 {% hint style="info" %}
-Para evitar problemas de rendimiento. La imagen no debe exceder, 192 X 114 pixeles. Para más información sobre los requerimientos de la imagen, ver por favor la sección **Images** portion of the [SD Card (tarjeta SD)](../../radio-settings/sd-card.md) section.
+Para evitar problemas de rendimiento. La imagen no debe exceder, 192 X 114 pixeles. Para más información sobre los requerimientos de la imagen, ver por favor la parte **Images** de la sección [SD Card (tarjeta SD)](../../radio-settings/sd-card.md).
 {% endhint %}
 
 {% hint style="info" %}
-[https://www.skyraccoon.com/](https://www.skyraccoon.com/) has a large repository of free image files that can be used with EdgeTX.
+[https://www.skyraccoon.com/](https://www.skyraccoon.com/) Contiene un gran repositorio de imágenes de libre uso que pueden utilizarse en EdgeTX.
 {% endhint %}
 
-#### Use global functions
+#### Use global functions (funciones globales)
 
-When enabled, global functions programmed in the radio settings will apply to this model. When disabled, global functions will not apply to this model.
+Habilita o no, el uso de las funciones globales en este modelo.
 
 {% hint style="info" %}
-_Global functions_ are _special functions_ that are applied across all models. Refer to [Special _Functions_](../special-functions.md) for information on configurable settings.
+_Global functions_ (Funciones globales)_ son funciones especiales que pueden ser aplicadas a todos los modelos. Ver [Special _Functions_(funciones especiales)](../special-functions.md) para mas información sobre su configuración.
 {% endhint %}
 
 #### ADC Filter
