@@ -15,7 +15,7 @@
   * [Administrar modelos](edgetx-user-manual/user-manual-for-color-screen-radios/select-model.md)
   * [Configuración del modelo](edgetx-user-manual/user-manual-for-color-screen-radios/model-settings/README.md)
     * [Model Setup (ajustes del modelo)](edgetx-user-manual/user-manual-for-color-screen-radios/model-settings/model-setup/README.md)
-      * [Internal / External RF](edgetx-user-manual/user-manual-for-color-screen-radios/model-settings/model-setup/internal-external-rf.md)
+      * [Internal / External RF (Módulo de RF interno/externo)](edgetx-user-manual/user-manual-for-color-screen-radios/model-settings/model-setup/internal-external-rf.md)
       * [Trainer](edgetx-user-manual/user-manual-for-color-screen-radios/model-settings/model-setup/trainer.md)
       * [Timer 1/2/3](edgetx-user-manual/user-manual-for-color-screen-radios/model-settings/model-setup/timer-1-2-3.md)
       * [Preflight Checks](edgetx-user-manual/user-manual-for-color-screen-radios/model-settings/model-setup/preflight-checks.md)
