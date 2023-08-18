@@ -14,12 +14,12 @@ Si el botón es de color amarillo, significa que el módulo correspondiente, se 
 
 </div>
 
-#### Receiver number
+#### Receiver ID (Número de receptor)
 
-The receiver number is a user-assigned number for a model that is sent to the receiver when bound. Each model must have a unique receiver number. However, models using different protocols may have the same receiver number without issues.  EdgeTX will inform you when a receiver number is unique or if it is already being used with a text above the number field.
+El número de receptor (Receiver ID) es un número asignado por el usuario, que es enviado al receptor, durante el enlace. Cada modelo, debe tener un único número de receptor. Solo pueden tener el mismo número, si los receptores usan protocolos distintos. Aparecerá un aviso, para informar si el número es único o si está previamente usado en otro modelo.
 
 {% hint style="warning" %}
-If using the radio in gamepad mode, both internal and external RF modules should be turned off. This will result in increased performance when connected to a computer via USB.&#x20;
+Si se usa la radio como mando de juegos conectado a un computador. Deben deshabilitarse tanto el módulo de RF interno como el externo. Esto mejorará el rendimiento.&#x20;
 {% endhint %}
 
 #### Mode Options
