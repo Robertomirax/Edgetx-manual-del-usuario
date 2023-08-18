@@ -38,7 +38,7 @@ Para evitar problemas de rendimiento. La imagen no debe exceder, 192 X 114 pixel
 Este botón habilita o no el fltro ADC para este modelo. La opción _**global**_ tomará el valor asignado en la Configuración de la radio, que es activado (_on_) por defecto.
 
 {% hint style="info" %}
-The ADC filter is a filter for the proportional channels (sticks, pots, sliders), smoothing out smaller fast movements that occur due to noise in the system electronics. Normally, this filter should be _disabled_ for models with flight controllers.
+El filtro ADC, suaviza las señales de los canales proporcionales (palancas, potenciómetros, deslizantes), filtrando los movimientos rápidos debidos al ruido de los sistemas electrónicos. Este filtro debe normalmente ser deshabilitado, en los modelos con controladores de vuelo.
 {% endhint %}
 
 
