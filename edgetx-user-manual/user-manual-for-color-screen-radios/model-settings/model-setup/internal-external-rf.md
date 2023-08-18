@@ -6,11 +6,11 @@ Si el botón es de color amarillo, significa que el módulo correspondiente, se 
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/internalrf.png" alt=""><figcaption><p>Internal RF with multi-protocol module selected</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/internalrf.png" alt=""><figcaption><p>Módulo multiprotocolo seleccionado en la configuración interna. "Internal RF"</p></figcaption></figure>
 
  
 
-<figure><img src="../../../../.gitbook/assets/externalrf.png" alt=""><figcaption><p>External RF with CRSF selected</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/externalrf.png" alt=""><figcaption><p>Módulo CRSF seleccionado en la configuración externa. "External RF"</p></figcaption></figure>
 
 </div>
 
