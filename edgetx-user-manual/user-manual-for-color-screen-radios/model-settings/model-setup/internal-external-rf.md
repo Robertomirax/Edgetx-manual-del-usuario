@@ -1,8 +1,8 @@
 # Internal / External RF
 
-The configuration settings for both the Internal and External RF pages work the same. The only difference is that the **Internal RF** section is for configuring the built-in module and the **External RF** section is for configuring an RF module in the external module bay.
+Las configuraciones del módulo de RF interno y del externo trabajan de la misma forma. La única diferencia es que la sección **Internal RF** Es para configurar el módulo de RF interno que viene con la radio y la sección **External RF** es para configurar el módulo que se puede instalar en forma externa.
 
-The Internal / External RF modules are "active" for a model when the buttons are yellow and inactive when they are white.
+Si el botón es de color amarillo, significa que el módulo correspondiente, se encuentra activo. Si es de color blanco, el módulo está inactivo.
 
 <div>
 
