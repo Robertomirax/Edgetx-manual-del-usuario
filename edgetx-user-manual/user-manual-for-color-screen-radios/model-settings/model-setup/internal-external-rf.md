@@ -22,38 +22,38 @@ El número de receptor (Receiver ID) es un número asignado por el usuario, que 
 Si se usa la radio como mando de juegos conectado a un computador. Deben deshabilitarse tanto el módulo de RF interno como el externo. Esto mejorará el rendimiento.&#x20;
 {% endhint %}
 
-#### Mode Options
+#### Mode Options (modo)
 
-* **Off** - RF Module is not used
-* **PPM** - Pulse position modulation, used by many generic JR compatible modules.
-  * **Telemetry** - No telemetry or MLink
-  * **Channel Range** - Channels that will be used.
-  * **PPM Frame** – Frame length, pulse length, and polarity of the PPM frame. The frame length is automatically adjusted to the correct value when the number of transmitted channels is changed. However, this automatically assigned value can be manual changed.
+* **Off** - No se usa el módulo de RF
+* **PPM** - Modulación por posición de pulso. Se usa en muchos módulos genéricos, compatibles con JR.
+  * **Telemetry** - Sin telemetria o MLink
+  * **Channel Range** - Canales que serán usados.
+  * **PPM Frame** – Duración de la secuencia de pulsos, duración del pulso, y polaridad de la señal PPM. La duración de la secuencia de pulsos, se ajusta automáticamente, cuando cambia el número de canales transmitido. Sin embargo, este valor asignado automáticamente, puede cambiarse de forma manual.
 * **XJT** -&#x20;
   * **Protocol**- D16, B8, LR2
-  * **Channel Range** - Channels that will be used.
-  * **Failsafe Mode** - Available in D16 protocol. The receiver will use this setting when the transmitter signal is not being received (signal loss).
-    * **Not Set** - failsafe mode is not set.&#x20;
-    * **Hold** – The receiver keeps channel values at their last received state from the transmitter.
-    * **No pulses** – No PWM pulses are output.
-    * **Receiver** – Follows the fail-safe settings configured on the receiver. Follow the instructions that come with the receiver.
-    * **Custom** – The receiver changes the channel values to the custom set values.
-      * **Custom Set** – Each channel can have its own setting. The options are a value, hold and no pulses.
-  * **Receiver Number** -  a user-assigned number for a model that is sent to the receiver when bound
-  * **Bind** - This puts the transmitter into bind mode. When in this mode the transmitter will make a chirp sound every 2.5 seconds.
-  * **Range** . This puts the transmitter into range check mode. When in this mode, the RSSI value is displayed and a sound is made every 5 seconds.
+  * **Channel Range** - Canales que serán usados.
+  * **Failsafe Mode (señal perdida)** - Disponible en protocolo D16. El receptor usará esta configuración, cuando pierda la señal del transmisor.
+    * **Not Set** - No está definido el modo de failsafe (señal perdida).&#x20;
+    * **Hold** – El receptor mantiene último valor recibido para cada canal luego de perder la señal del transmisor.
+    * **No pulses** – El receptor no genera pulsos PWM en sus salidas.
+    * **Receiver** – Se ejecuata la configuración de failsafe, que tenga definida el receptor. Ver las instrucciones que vienen con el receptor.
+    * **Custom** – El receptor cambia los valores de cada canal a aquellos definidos por el usuario.
+      * **Custom Set** – Cada canal puede tener su propia configuración. Las opciones son: un valor, mantener el último valor o no generar pulsos.
+  * **Receiver Number** - Un valor asignado por el usuario para cada modelo que es enviado al receptor durante el enlace.
+  * **Bind** - Esto coloca el transmisor en modo de enlace con el receptor. En este modo, el transmisor produce un chirrido cada 2,5 segundos.
+  * **Range** . Esto coloca el transmisor en el modo de verificación de rango de alcance. Se mostrará el valor de RSSI (indicador de fuerza de la señal recibida, RSSI por las siglas del inglés Received Signal Strength Indicator), y se emitirá un sonido cada 5 segundos.
 * **DSM2**
   * **Protocol** - LP45, DSM2, DSMX
-  * **Channel Range** - Channels that will be used.
-  * **Receiver Number** -  a user-assigned number for a model that is sent to the receiver when bound
-  * **Bind** - This puts the transmitter into bind mode. When in this mode the transmitter will make a chirp sound every 2.5 seconds.
-  * **Range** . This puts the transmitter into range check mode. When in this mode, the RSSI value is displayed and a sound is made every 5 seconds.
+  * **Channel Range** - Canales que serán usados.
+  * **Receiver Number** -  Un valor asignado por el usuario para cada modelo que es enviado al receptor durante el enlace.
+  * **Bind** - Esto coloca el transmisor en modo de enlace con el receptor. En este modo, el transmisor produce un chirrido cada 2,5 segundos.
+  * **Range** . Esto coloca el transmisor en el modo de verificación de rango de alcance. Se mostrará el valor de RSSI (indicador de fuerza de la señal recibida, RSSI por las siglas del inglés Received Signal Strength Indicator), y se emitirá un sonido cada 5 segundos.
 * **CRSF**
-  * **Baud Rate** - the speed to which the Transmitter module and the Radio Handset communicate.
-  * **Status** - Shows the packet radio configured on the trasmitter module.
-  * **Channel Range** - Channels that will be used.
-  * **Receiver Number** -  a user-assigned number for a model that is sent to the receiver when bound
-* **Multi** - Multiprotocol Module. The configuration options are unique to each selected protocol Configuration options for the multi-protocol module are described here:  [https://www.multi-module.org/using-the-module/protocol-options](https://www.multi-module.org/using-the-module/protocol-options)
+  * **Baud Rate** - Velocidad a la que se establece la comunicación entre la radio y el módulo.
+  * **Status** - Muestra la configuración de la transmisión, en el módulo RF.
+  * **Channel Range** - Canales que serán usados.
+  * **Receiver Number** -  Un valor asignado por el usuario para cada modelo que es enviado al receptor durante el enlace.
+* **Multi** - Módulo multiprotocolo. Las opciones de configuración, son únicas para cada protocolo seleccionado. Se describen aqui:  [https://www.multi-module.org/using-the-module/protocol-options](https://www.multi-module.org/using-the-module/protocol-options)
 * **R9M**
   * **Mode**- FCC, EU, 868MHz, 915 MHZ
   * **Failsafe Mode** - The receiver will use this setting when the transmitter signal is not being received (signal loss).
