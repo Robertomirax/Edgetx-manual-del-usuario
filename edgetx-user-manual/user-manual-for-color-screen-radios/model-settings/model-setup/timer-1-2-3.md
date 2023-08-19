@@ -44,9 +44,9 @@ Si el ítem tiene un signo "!" delante del nombre, significa que la condición e
 
 * **Off (desactivado)** - El valor del timer, se reinicializará al cambiar de modelo o al apagar y encender la radio.
 * **Flight (vuelo)** - El valor del timer no se reinicia al cambiar modelos ni al apagar y encender la radio. Se reinicia cuando se selecciona la opción **Reset flight** en el menú [Reset telemetry (reinicio de telemetría) ](../../reset-telemetry.md).
-* **Manual Reset (reinicio manual)** El valor del timer se reinicia solamente cuando se selecciona individualmente para ser reiniciado (ejemplo: Reset timer1) en el menú [Reset telemetry ](../../reset-telemetry.md).
+* **Manual Reset (reinicio manual)** El valor del timer se reinicia solamente cuando se selecciona individualmente para ser reiniciado (ejemplo: Reset timer1) en el menú [Reset telemetry (reinicio de telemetría) ](../../reset-telemetry.md).
 
 {% hint style="info" %}
-La opción **Flight (vuelo)** puede configurarse para múltiples timers y estos pueden ser reiniciados simultaneamente con la opción **Reset flight**.
+La opción **Flight (vuelo)** puede configurarse para múltiples timers y estos pueden ser reiniciados simultaneamente con la opción **Reset flight (reinicio de vuelo)**.
 {% endhint %}
 
