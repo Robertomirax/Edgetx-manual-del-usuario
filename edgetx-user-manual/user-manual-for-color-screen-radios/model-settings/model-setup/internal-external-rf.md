@@ -67,44 +67,44 @@ Si se usa la radio como mando de juegos conectado a un computador. Deben deshabi
   * **Bind** - Esto coloca el transmisor en modo de enlace con el receptor. En este modo, el transmisor produce un chirrido cada 2,5 segundos.
   * **Range** . Esto coloca el transmisor en el modo de verificación de rango de alcance. Se mostrará el valor de RSSI (indicador de fuerza de la señal recibida, RSSI por las siglas del inglés Received Signal Strength Indicator), y se emitirá un sonido cada 5 segundos.
   * **RF Power** - Indica la potencia de salida del módulo transmisor. Las opciones cambian de acuerdo al modo seleccionado.
-* **R9M Access    Nota:** Para que el modo **R9M ACCESS** sea visible en el menú desplegable, deben configurarse los puertos AUX1 o AUX2 como **External Module** en la página [Hardware](../../radio-settings/hardware.md) page.&#x20;
-  * **Channel Range** - Channels that will be used.
-  * **Failsafe Mode** - The receiver will use this setting when the transmitter signal is not being received (signal loss).
-    * **Not Set** - failsafe mode is not set.&#x20;
-      * **Hold** – The receiver keeps channel values at their last received state from the transmitter.
-      * **No pulses** – No PWM pulses are output.
-      * **Receiver** – Follows the fail-safe settings configured on the receiver. Follow the instructions that come with the receiver.
-      * **Custom** – The receiver changes the channel values to the custom set values.
-        * **Custom Set** – Each channel can have its own setting. The options are a value, hold and no pulses
-  * **Module -** _Please refer to FrSky documentation for these configuration settings_
+* **R9M Access    Nota:** Para que el modo **R9M ACCESS** sea visible en el menú desplegable, deben configurarse los puertos AUX1 o AUX2 como **External Module** en la página [Hardware](../../radio-settings/hardware.md).&#x20;
+  * **Channel Range** - Canales que serán usados.
+  * **Failsafe Mode (señal perdida)** - Disponible en protocolo D16. El receptor usará esta configuración, cuando pierda la señal del transmisor.
+    * **Not Set** - No está definido el modo de failsafe (señal perdida).&#x20;
+    * **Hold** – El receptor mantiene último valor recibido para cada canal luego de perder la señal del transmisor.
+    * **No pulses** – El receptor no genera pulsos PWM en sus salidas.
+    * **Receiver** – Se ejecuata la configuración de failsafe, que tenga definida el receptor. Ver las instrucciones que vienen con el receptor.
+    * **Custom** – El receptor cambia los valores de cada canal a aquellos definidos por el usuario.
+      * **Custom Set** – Cada canal puede tener su propia configuración. Las opciones son: un valor dado, mantener el último valor o no generar pulsos.
+  * **Module -** _Ver por favor la documentación de FrSky para esta configuración_
     * Register
       * Range
       * Options
-  * **Receiver No (Number)** -  a user-assigned number for a model that is sent to the receiver when bound
-  * **Bind** - This puts the transmitter into bind mode. When in this mode the transmitter will make a chirp sound every 2.5 seconds.
+  * **Receiver Number** -  Un valor asignado por el usuario para cada modelo que es enviado al receptor durante el enlace.
+  * **Bind** - Esto coloca el transmisor en modo de enlace con el receptor. En este modo, el transmisor produce un chirrido cada 2,5 segundos.
 * **GHST** - ImmersionRC Ghost
-  * **Channel Range** - Channels that will be used.
-  * **Raw 12 bits** - enable 12bit mode
+  * **Channel Range** - Canales que serán usados.
+  * **Raw 12 bits** - Hbilita el modo de 12bit.
 * **SBUS**&#x20;
-  * **Channel Range** - Channels that will be used.
-  * **Refresh Rate** - Rate of refresh in milliseconds
-    * **Inversion** - Normal, Non-inverted
+  * **Channel Range** - Canales que serán usados.
+  * **Refresh Rate** - Tasa de refresco en milisegundos.
+    * **Inversion** - Normal, Not-inverted
 * **FLYSKY**&#x20;
   * **Protocol** - AFHDS3, AFHDS2A
-  * **Module Status** - Status of the module
-  * **Type** - _Please refer to FLYSKY documentation for these configuration settings_
-    * **Module Options**- _Please refer to FLYSKY documentation for these configuration settings_
-  * **Channel Range** - Channels that will be used.
-  * **Failsafe Mode** - The receiver will use this setting when the transmitter signal is not being received (signal loss).
-    * **Not Set** - failsafe mode is not set.&#x20;
-    * **Hold** – The receiver keeps channel values at their last received state from the transmitter.
-    * **No pulses** – No PWM pulses are output.
-    * **Receiver** – Follows the fail-safe settings configured on the receiver. Follow the instructions that come with the receiver.
-    * **Custom** – The receiver changes the channel values to the custom set values.
-      * **Custom Set** – Each channel can have its own setting. The options are a value, hold and no pulses.
-  * **Receiver (number)** -  a user-assigned number for a model that is sent to the receiver when bound
-  * **Bind** - This puts the transmitter into bind mode. When in this mode the transmitter will make a chirp sound every 2.5 seconds.
+  * **Module Status** - Estado del módulo
+  * **Type** - _Ver por favor la documentación de FLYSKY para esta configuración_
+    * **Module Options**- _Ver por favor la documentación de FLYSKY para esta configuración_
+  * **Channel Range** - Canales que serán usados.
+  * **Failsafe Mode** - El receptor usará esta configuración al perder la señal del transmisor.
+    * **Not Set** - No está definido el modo failsafe.&#x20;
+    * **Hold** – El receptor mantiene el último estado recibido para cada canal.
+    * **No pulses** – No se emite ningún pulso PWM.
+    * **Receiver** – Se ejecuata la configuración de failsafe, que tenga definida el receptor. Ver las instrucciones que vienen con el receptor.
+    * **Custom** – El receptor cambia los valores de cada canal a aquellos definidos por el usuario.
+      * **Custom Set** – Cada canal puede tener su propia configuración. Las opciones son: un valor, mantener el último valor o no generar pulsos.
+  * **Receiver Number** - Un valor asignado por el usuario para cada modelo que es enviado al receptor durante el enlace.
+  * **Bind** - Esto coloca el transmisor en modo de enlace con el receptor. En este modo, el transmisor produce un chirrido cada 2,5 segundos.
 * **LemonRx DSMP**
-  * **Channel Range** - Channels that will be used.
-  * **Bind** - This puts the transmitter into bind mode. When in this mode the transmitter will make a chirp sound every 2.5 seconds.
-  * **Range** . This puts the transmitter into range check mode. When in this mode, the RSSI value is displayed and a sound is made every 5 seconds.
+  * **Channel Range** - Canales que se usarán.
+   * **Bind** - Esto coloca el transmisor en modo de enlace con el receptor. En este modo, el transmisor produce un chirrido cada 2,5 segundos.
+  * **Range** . Esto coloca el transmisor en el modo de verificación de rango de alcance. Se mostrará el valor de RSSI (indicador de fuerza de la señal recibida, RSSI por las siglas del inglés Received Signal Strength Indicator), y se emitirá un sonido cada 5 segundos.
