@@ -66,7 +66,7 @@ Si se usa la radio como mando de juegos conectado a un computador. Deben deshabi
   * **Receiver Number** -  Un valor asignado por el usuario para cada modelo que es enviado al receptor durante el enlace.
   * **Bind** - Esto coloca el transmisor en modo de enlace con el receptor. En este modo, el transmisor produce un chirrido cada 2,5 segundos.
   * **Range** . Esto coloca el transmisor en el modo de verificación de rango de alcance. Se mostrará el valor de RSSI (indicador de fuerza de la señal recibida, RSSI por las siglas del inglés Received Signal Strength Indicator), y se emitirá un sonido cada 5 segundos.
-  * **RF Power** - La potencia de salida del módulo transmisor. Las opciones cambian de acuerdo al modo seleccionado.
+  * **RF Power** - Indica la potencia de salida del módulo transmisor. Las opciones cambian de acuerdo al modo seleccionado.
 * **R9M Access    Note:** In order for the mode **R9M ACCESS** to be visible in the mode dropdown**,** the AUX1 or AUX2 serial port must be configured to **External Module** on the [Hardware](../../radio-settings/hardware.md) page.&#x20;
   * **Channel Range** - Channels that will be used.
   * **Failsafe Mode** - The receiver will use this setting when the transmitter signal is not being received (signal loss).
