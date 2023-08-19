@@ -46,11 +46,11 @@
     * [Trainer (Instructor)](edgetx-user-manual/user-manual-for-color-screen-radios/radio-settings/trainer.md)
     * [Hardware](edgetx-user-manual/user-manual-for-color-screen-radios/radio-settings/hardware.md)
     * [Version](edgetx-user-manual/user-manual-for-color-screen-radios/radio-settings/version.md)
-  * [Screen Settings](edgetx-user-manual/user-manual-for-color-screen-radios/screen-settings/README.md)
+  * [Screen Settings (pantalla de configuración)](edgetx-user-manual/user-manual-for-color-screen-radios/screen-settings/README.md)
     * [Widgets](edgetx-user-manual/user-manual-for-color-screen-radios/screen-settings/widgets.md)
-  * [Channel Monitor](edgetx-user-manual/user-manual-for-color-screen-radios/channel-monitor.md)
-  * [Reset Telemetry](edgetx-user-manual/user-manual-for-color-screen-radios/reset-telemetry.md)
-  * [Statistics](edgetx-user-manual/user-manual-for-color-screen-radios/statistics.md)
+  * [Channel Monitor (monitor de canal)](edgetx-user-manual/user-manual-for-color-screen-radios/channel-monitor.md)
+  * [Reset Telemetry (reinicio de telemetría)](edgetx-user-manual/user-manual-for-color-screen-radios/reset-telemetry.md)
+  * [Statistics (estadísticas)](edgetx-user-manual/user-manual-for-color-screen-radios/statistics.md)
 
 ***
 
