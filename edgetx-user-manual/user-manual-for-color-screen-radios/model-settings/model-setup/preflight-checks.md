@@ -1,14 +1,14 @@
 # Preflight Checks
 
-<figure><img src="../../../../.gitbook/assets/preflightchecks.png" alt=""><figcaption><p>Preflight Checks page</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/preflightchecks.png" alt=""><figcaption><p>Página de controles pre-vuelo</p></figcaption></figure>
 
-Whenever a new model is loaded, EdgeTX will conduct pre-flight checks based on the checks that are configured on this page. If any of the checks are failed, EdgeTX will give the user an audio and visual warning that must be acknowledged before using the model. The following preflight checks are configurable:
+Cada vez que se carga un modelo nuevo, EdgeTX realiza un control pre-vuelo basado en las verificaciones definidas en esta página. Si falla alguna de las verificaciones, EdgeTX le dará al usuario una advertencia visual y audible que debe ser admitida antes de seguir adelante. Se pueden configurar las siguientes opciones:
 
-**Display checklist** - When this option is selected, the model notes file will be displayed when the model is loaded. A valid model notes file must be in the **Models** folder on the SD card. The model notes file must be a .txt file and must have the EXACT same name as the model it is for, for example: Mobula6.txt. The text in the file is up to the user.
+**Display checklist (mostrar lista de verificaciones)** - Cuando está seleccionada esta opción, se mostrarán en pantalla las notas del modelo cuando este sea cargado. Debe existir un archivo válido en la carpeta **Models** en la tarjeta SD. El archivo de notas debe ser un archivo de texto .txt y debe tener exactamente el mismo nombre que el modelo seleccionado. Por ejemplo: Mobula6.txt. El texto en el archivo depende del usuario.
 
-**Throttle state** - When selected, the radio will check that the throttle is at the minimum range value for the configured throttle source in the [Throttle](throttle.md) menu.
+**Throttle state (estado del acelerador)** - Cuando está seleccionada esta opción, la radio verificará que el acelerador esté en su valor mínimo para la fuente configurada como acelerador en la sección [Throttle (acelerador)](throttle.md).
 
-**Custom Position?** - When this option is selected, a number box will be shown that can be configured with a user-defined value for the throttle state check. &#x20;
+**Custom Position?** -  When this option is selected, a number box will be shown that can be configured with a user-defined value for the throttle state check. &#x20;
 
 **Switches** - The section displays all the switches that are configured on the radio and allows you to select which position is the correct position for the switch state check. Selecting the switch will cycle through the available switch positions or turn the check off for the switch completely. Yellow switches have the switch position check activated. White switches e de-activated.
 
