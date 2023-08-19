@@ -1,27 +1,27 @@
 # Trims
 
-<figure><img src="../../../../.gitbook/assets/trims.png" alt=""><figcaption><p>Trims settings page</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/trims.png" alt=""><figcaption><p>Página de configuración de los Trims (centradores)</p></figcaption></figure>
 
-Trims are used adjust the center position of a given stick axis. EdgeTX has the following time configuration options:
+La función de los Trims (centradores), es ajustar la posición central de las palancas. EdgeTX tiene las siguilentes opciones de configuración:
 
-**Reset** - This resets all trim values to zero.
+**Reset (reinicio)** - Reinicio de todos los trims (centradores) a cero.
 
-**Trim Step:** Defines the amount of increase/decrease in trim when the trim switch is pressed.&#x20;
+**Trim Step (pasos del centrador):** Define cuanto incrementa o decrementa el valor del trim (centrador) cada vez que se presiona.&#x20;
 
-* Course = 1.6%
-* Medium = 0.8%
-* Fine = 0.4%
-* Extra Fine = 0.2%
-* Exponential = 0.2% near the center and the step value increases exponentially as the distance from the center increases.
+* Course (grueso) = 1.6%
+* Medium (medio)= 0.8%
+* Fine (fino)= 0.4%
+* Extra Fine (muy fino) = 0.2%
+* Exponential (exponencial) = 0.2% cerca del centro y luego aumenta exponencialmente al alejarse del centro.
 
-**Extended Trims**: Increases the maximum trim adjustment value from **±**25% to **±**100%.
+**Extended Trims (centradores extendidos)**: Incrementa el valór máximo que puede ajustarse con el trim (centrador) desde **±**25% hasta **±**100%.
 
 {% hint style="info" %}
-When switching from extended trims to normal trims, the extended trim value will remain until the trim is adjusted, then it will jump to the max/min normal trim value.
+Cuando se cambia de extended trims (centradores extendidos) a normal trims (centradores normales), el valor del trim (centrador) permanecerá hasta que el propio trim (centrador) sea ajustado, luego saltará a los valores normales de mínimo y máximo.
 {% endhint %}
 
-**Display trims:** Option to display the numerical trim value on the trim bar. Options are:
+**Display trims (mostrar centradores):** Esta opción permite mostrar el valor numérico del trim (centrador) en la barra de trims (centradores) de la pantalla. Las opciones son:
 
-* **No -** Does not display the numerical trim value on the trim bar
-* **Yes** - Displays the numerical trim value on the trim bar once the trim is no longer at zero.
-* **Change -** Momentarily displays the numerical trim value on the trim bar (2 seconds) once the trim is no longer at zero.
+* **No (No) -** No muestra los valores numéricos en la pantalla.
+* **Yes (Si) -** Muestra los valores numéricos si son distintos de cero.
+* **Change (Cambia) -** Muestra el valor numérico durante 2 segundos si es distinto de cero.
