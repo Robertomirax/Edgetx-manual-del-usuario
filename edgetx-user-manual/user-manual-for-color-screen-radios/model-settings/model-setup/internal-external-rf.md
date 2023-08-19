@@ -62,7 +62,7 @@ Si se usa la radio como mando de juegos conectado a un computador. Deben deshabi
     * **No pulses** – El receptor no genera pulsos PWM en sus salidas.
     * **Receiver** – Se ejecuata la configuración de failsafe, que tenga definida el receptor. Ver las instrucciones que vienen con el receptor.
     * **Custom** – El receptor cambia los valores de cada canal a aquellos definidos por el usuario.
-      * **Custom Set** – Cada canal puede tener su propia configuración. Las opciones son: un valor, mantener el último valor o no generar pulsos.
+      * **Custom Set** – Cada canal puede tener su propia configuración. Las opciones son: un valor dado, mantener el último valor o no generar pulsos.
   * **Receiver Number** -  Un valor asignado por el usuario para cada modelo que es enviado al receptor durante el enlace.
   * **Bind** - Esto coloca el transmisor en modo de enlace con el receptor. En este modo, el transmisor produce un chirrido cada 2,5 segundos.
   * **Range** . Esto coloca el transmisor en el modo de verificación de rango de alcance. Se mostrará el valor de RSSI (indicador de fuerza de la señal recibida, RSSI por las siglas del inglés Received Signal Strength Indicator), y se emitirá un sonido cada 5 segundos.
