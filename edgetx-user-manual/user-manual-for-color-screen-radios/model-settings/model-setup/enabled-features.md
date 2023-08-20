@@ -1,13 +1,13 @@
 # Enabled Features
 
-<figure><img src="../../../../.gitbook/assets/enabledfeatures.png" alt=""><figcaption><p>Enabled Features</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/enabledfeatures.png" alt=""><figcaption><p>Funciones habilitadas</p></figcaption></figure>
 
-The **Enabled Features** section of **Model Setup** allows you to configure which tabs are visible in the selected model's radio setup and model settings area of EdgeTX. You can select the following options:
+La sección **Enabled Features (funciones habilitadas)** de **Model Setup (ajustes del modelo)** permite configurar que pestañas son visibles en la pantalla de configuración del modelo. Se pueden seleccionar las siguientes opciones:
 
-* **Global** - When selected, the tab will take the global value configured in the **Enabled Features** area in **Radio Setup**. The configured global value will display next to the option.
-* **On** - When selected, this tab will be visible when this model is loaded.
-* **Off** -  When selected, this tab will not be visible when this model is loaded.
+* **Global** - Cuando se selecciona esta opción, la función toma el valor global, configurado en el area **Enabled Features (funciones habilitadas)** de la sección **Radio Setup (ajustes de la radio) **. El valor de la configuración global, se mostrará al lado de la opción.
+* **On** - Esta opción, hace que esta función sea visible al cargar este modelo.
+* **Off** - Esta opción hace que esta función no sea visible al cargar este modelo.
 
 {% hint style="info" %}
-_**Note:**_ Turning off a tab only hides the tab and does not change the items already configured in that tab. For example, if you configure a special function and then turn off the special functions tab, the special function will still work as configured.
+_**Nota:**_ Cambiando a off una función, solamente oculta la función pero no cambia su valor. Por ejemplo, si se configura una función especial y luego se oculta cambiandola a off, La función especial, seguirá trabajando como fue configurada.
 {% endhint %}
