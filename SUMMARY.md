@@ -22,7 +22,7 @@
       * [Trims (centrador o ajuste fino)](edgetx-user-manual/user-manual-for-color-screen-radios/model-settings/model-setup/trims.md)
       * [Throttle (acelerador)](edgetx-user-manual/user-manual-for-color-screen-radios/model-settings/model-setup/throttle.md)
       * [Enabled Features (funciones habilitadas)](edgetx-user-manual/user-manual-for-color-screen-radios/model-settings/model-setup/enabled-features.md)
-      * [USB Joystick](edgetx-user-manual/user-manual-for-color-screen-radios/model-settings/model-setup/usb-joystick.md)
+      * [USB Joystick (mando USB)](edgetx-user-manual/user-manual-for-color-screen-radios/model-settings/model-setup/usb-joystick.md)
     * [Heli Setup (ajustes para helicópteros)](edgetx-user-manual/user-manual-for-color-screen-radios/model-settings/heli-setup.md)
     * [Flight Modes (modos de vuelo)](edgetx-user-manual/user-manual-for-color-screen-radios/model-settings/flight-modes.md)
     * [Inputs, Mixes & Outputs (entradas, mezclas y salidas)](edgetx-user-manual/user-manual-for-color-screen-radios/model-settings/inputs-mixes-and-outputs/README.md)
