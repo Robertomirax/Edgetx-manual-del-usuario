@@ -1,14 +1,14 @@
 # Heli Setup
 
-The **Heli Setup** page in Model Settings is an optional page that is available on custom-compiled versions of EdgeTX. The heli setup page is often used for collective pitch mixing (CCPM) used in flybared helicopters where the receiver directly controls the swashplate servos. Most flybarless helicopters do not need to configure this page. The outputs of the CCPM mixer are CYC1, CYC2, and CYC3, which need to be assigned to an output channel on the Mixes screen.
+La página **Heli Setup (ajustes para helicópteros)** es una página opcional. Se usa mayormente para helicopteros con paso colectivo CCPM en helicópteros con flybar donde el receptor controla directamente los servos del swashplate. La mayoría de los helicópteros sin flybar no necesitan configurar esta página. Las salidas del mezclador CCPM son CYC1, CYC2, y CYC3. 
 
-<figure><img src="../../../.gitbook/assets/helisetup.jpg" alt=""><figcaption><p>Heli Setup page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/helisetup.jpg" alt=""><figcaption><p>página Heli Setup</p></figcaption></figure>
 
-The heli setup page has the following configuration options:
+Esta página tiene las siguientes opciones:
 
-* **Swash Type** - Swash type for your model. Options are **120, 120x, 140, and 90.**
-* **Swash Ring** - Set the swash ring limit only as needed. **1** = maximum limit -> **100** or **0** = no limit.&#x20;
-* **Long. cyc. source** - Select source input.
-* **Lateral cyc.source** -Select source input.
-* **Coll. pitch source** - Select source input.&#x20;
-* **Weight** - Percentage value of the stick travel to use.&#x20;
+* **Swash Type** - Tipo de Swashplate que tiene el modelo. Las opciones son **120, 120x, 140, and 90.**
+* **Swash Ring** - Ajusta los límites del swashplate. **1** = límite máximo -> **100** o **0** = sin límite.&#x20;
+* **Long. cyc. source** - Selecciona el canal a usar para el control longitudinal.
+* **Lateral cyc.source** - Selecciona el canal a usar para el control lateral.
+* **Coll. pitch source** - Selecciona el canal a usar para el paso colectivo.&#x20;
+* **Weight** - Valor porcentual a aplicar para el recorrido de la palanca.&#x20;
