@@ -6,7 +6,7 @@ La página **Heli Setup (ajustes para helicópteros)** es una página opcional. 
 
 Esta página tiene las siguientes opciones:
 
-* **Swash Type** - Tipo de Swashplate que tiene el modelo. Las opciones son **120, 120x, 140, and 90.**
+* **Swash Type** - Tipo de Swashplate que tiene el modelo. Las opciones son **120, 120x, 140, y 90.**
 * **Swash Ring** - Ajusta los límites del swashplate. **1** = límite máximo -> **100** o **0** = sin límite.&#x20;
 * **Long. cyc. source** - Selecciona el canal a usar para el control longitudinal.
 * **Lateral cyc.source** - Selecciona el canal a usar para el control lateral.

@@ -1,6 +1,6 @@
 # Flight Modes
 
-<figure><img src="../../../.gitbook/assets/FM1.png" alt=""><figcaption><p>Flight Modes page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/FM1.png" alt=""><figcaption><p>página de modos de vuelo</p></figcaption></figure>
 
 Flight modes allow you to have different trim settings for each flight mode. Once multiple flight modes are configured, you can adjust the trim settings in each flight mode without affecting the trim settings in other flight modes (unless they are configured to do so). There are 9 possible flight modes to use, with Flight Mode 0 being the default flight mode.
 
