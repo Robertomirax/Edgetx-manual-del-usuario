@@ -11,7 +11,7 @@ EdgeTX tiene la posibilidad de seleccionar una fuente específica y un trim (cen
 **Trim idle only (centrador para ralenti solamente ):** Cuando está habilitado, el trim solo afecta la parte baja del acelerador.&#x20;
 
 {% hint style="info" %}
-For example, with **Trim idle only** enabled, the throttle stick at the lowest point might have a value of -80 and the center point will still be 0 and the highest point of 100. Without this enabled, the throttle stick at the lowest point might have a value of -80 however, the center point will be 20 and the highest point of 100.&#x20;
+Por ejemplo, con **Trim idle only** habilitado, la palanca del acelerador en su punto más bajo, podría tener un valor de -80, en el punto central seguirá teniendo un valor de 0 y en el punto más alto 100. Sin esta función habilitada, la palanca del acelerador en su punto más bajo, podría tener un valor de -80, sin embargo, en el punto central valdrá 20 y en el punto más alto valdrá 100.&#x20;
 {% endhint %}
 
-**Trim switch:** The trim switch that will be used to trim the throttle. It is possible to substitute the throttle trim switch with the aileron, rudder, or elevator trim switches.
+**Trim switch (interruptor de centrado):** Define el interruptor de centrado que será usado para el acelerador. Es posible sustituir el interruptor de centrado del acelerador, con el de los alerones, timón o elevador.
