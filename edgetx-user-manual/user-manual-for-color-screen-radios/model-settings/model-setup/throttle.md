@@ -14,4 +14,4 @@ EdgeTX tiene la posibilidad de seleccionar una fuente específica y un trim (cen
 Por ejemplo, con **Trim idle only** habilitado, la palanca del acelerador en su punto más bajo, podría tener un valor de -80, en el punto central seguirá teniendo un valor de 0 y en el punto más alto 100. Sin esta función habilitada, la palanca del acelerador en su punto más bajo, podría tener un valor de -80, sin embargo, en el punto central valdrá 20 y en el punto más alto valdrá 100.&#x20;
 {% endhint %}
 
-**Trim switch (interruptor de centrado):** Define el interruptor de centrado que será usado para el acelerador. Es posible sustituir el interruptor de centrado del acelerador, con el de los alerones, timón o elevador.
+**Trim switch (interruptor de centrado):** Define el interruptor de centrado que será usado para el acelerador. Es posible sustituir el interruptor de centrado del acelerador, por el de los alerones, timón o elevador.
