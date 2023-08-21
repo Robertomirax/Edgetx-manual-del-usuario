@@ -4,44 +4,47 @@ En la pantalla **Inputs (entradas)** de Model Settings es donde se mapean los co
 EdgeTX mapea automáticamente por defecto, las palancas de control como Alerones, Elevador, Acelerador y Timón. Basandose en el orden por defecto definido en [Radio Setup.](../../radio-settings/radio-setup/)
 
 {% hint style="info" %}
-Your input channels may default to a different order based on the settings defined in [Radio Setup](../../radio-settings/radio-setup/).
+Los canales de entrada pueden ser ordenados de forma diferente, según los ajustes definidos en la sección [Radio Setup](../../radio-settings/radio-setup/).
 {% endhint %}
 
 {% hint style="info" %}
-The Inputs section is also commonly referred to as "**Dual Rates"** as it was previously called this in earlier versions of OpenTX.&#x20;
+La sección de entradas es también llamada comunmente "**Dual Rates"** como fue referida previamente en las primeras versiones de OpenTX.&#x20;
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/inputs.jpg" alt=""><figcaption><p>Inputs screen in Model Settings</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/inputs.jpg" alt=""><figcaption><p>Pantalla de entradas (Inputs) en Model Settings</p></figcaption></figure>
 
-Selecting the **+** **button** will show you a list of available inputs that can be configured. After selecting an input, the input configuration page for that input will open. Selecting an existing input will give you the following options:
+Seleccionando el botón **+** se mostrará una lista de las entradas disponibles para ser configuradas.
+Luego de seleccionar una entrada, se abrirá la pantalla de configuración para esta entrada.
+Seleccionando una entrada existente aparecerán las siguientes opciones:
 
-* **Edit** - opens the input configuration page for that input line.
-* **Insert before** - Inserts a new input line before the selected input.
-* **Insert after**- Inserts a new input line after the selected input.
-* **Copy** - copies the selected input line.
-* **Move** - selects the input line to be moved. The input is moved using one of the paste commands after a new line is selected (i.e. cut & paste).&#x20;
-* **Delete** - deletes the selected input line.
-* **Paste before** - pastes the copied or moved input line before the selected input line.
-* **Paste after** - pastes the copied or moved input line before the selected input line.
+* **Edit (editar)** - Abre la página de edición de la configuración para esta entrada.
+* **Insert before (insertar antes)** - Inserta una nueva línea antes de esta.
+* **Insert after (insertar despues)**- Inserta una nueva línea despues de esta.
+* **Copy (copiar)** - Copia esta línea.
+* **Move (mover)** - Selecciona esta línea para ser movida. La entrada es movida usando uno de los comandos de pegado (paste).&#x20;
+* **Delete (borrar)** - Borra esta línea.
+* **Paste before (pegar antes)** - Pega la línea previamente copiada o movida antes de esta línea.
+* **Paste after (pegar después)** - Pega la línea previamente copiada o movida después de esta línea.
 
-<figure><img src="../../../../.gitbook/assets/Inputs2.jpg" alt=""><figcaption><p>Input Configuration Page</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Inputs2.jpg" alt=""><figcaption><p>Página de configuración de las entradas</p></figcaption></figure>
 
 ### Input configuration page
 
-The input configuration page allows you to edit the input configuation parameters. To the right of the configuration parameters, you can see a live graph that shows how your configuration options will affect the slope of the input.
+La página de configuración de las entradas, permite editar los parámetros de configuración de cada una de las entradas.
+A la derecha de los parámetros de configuración, puede verse una representación gráfica de como las opciones de configuración afectarán la forma de la curva de entrada.
 
-* **Input Name** - Name for the input. Four character are possible.
-* **Line Name** - Name of the individual line in the input. Multiple physical inputs can be mapped to one input by adding an additional input line under the input.
+* **Input Name (nombre de la entrada)** - Nombre que se le asigna a la entrada. Puede contener cuatro caracteres.
+* **Line Name (nombre de la línea)** - Nombre que se le asigna a cada línea individual en la entrada. Pueden mapearse varias entradas físicas a una entrada, agregando una nueva línea bajo la misma entrada.
 
-<figure><img src="../../../../.gitbook/assets/inputs2.jpg" alt=""><figcaption><p>Example of multiple input lines under one input</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/inputs2.jpg" alt=""><figcaption><p>Ejemplo de múltiples líneas de entrada bajo una sola entrada</p></figcaption></figure>
 
-* **Source** - The physical control used for the input. In addition to physical controls, you can also specify MAX (always returns 100), cyclics, trim switches, channel values and more. Moving the physical control after the source has been selected will automatically map it to that input.
-* **Weight** - Percentage value of the stick travel to use (often referred to as "rates").&#x20;
-* **Offset** - The value added to or subtracted from the input source.
-* **Switch** - The switch that activates the input line. If no switches are defined then it is always active.
-* **Curve** - Specifies the type of curve that will be used. The following curve options exist:
-  * **Diff** - Multiplies only the range above or below the middle (0) by the specified %.
-  * **Expo** -The input value is changed exponentially. Increasing the % will result with a gentle slope near the middle(0). Decreasing the % will result in a steep slope near the middle (0). With a % of 0, the slope will be linear.
+* **Source (fuente)** - El control físico usado para la entrada. Además de los controles físicos, se puede especificar MAX (siempre retorna 100), cyclics, trims, valores de un canal y más. Moviendo el control físico luego de que source fue seleccionado, se mapeará automáticamente este control a esta entrada.
+* **Weight (ponderación)** - Porcentaje del valor de la posición de la palanca a utilizar, (comunmente referido como "rate" o tasa).&#x20;
+* **Offset (desplazamiento)** - Un valor agregado o restado al valor de la fuente de entrada.
+* **Switch (interruptor)** - El interruptor que activa la linea de entrada. Si no se define un interruptor, entonces estará siempre activa.
+* **Curve (curva)** - Especifica el tipo de curva de respuesta a utilizar. Existen las siguientes opciones:
+  * **Diff (diferencial)** - Multiplica por un determinado porcentaje % solamente en la mitad inferior o superior del recorrido.
+  * **Expo (esponencial)** - El valor de la entrada, se cambia de forma exponencial. Incrementando el % resulta una curva aplanada cerca de la mitad (0). Decrementando el %, aumenta la pendiente de la curva cerca de la mitad (0). Con un % de 0, la pendiente será lineal.
   *   **Func** -
 
       <table><thead><tr><th width="116">Function</th><th width="575">Slope Behavior</th></tr></thead><tbody><tr><td>---</td><td>The slope will be linear.</td></tr><tr><td>X>0</td><td>The range below the middle (0) is always 0. Above the middle (0), the slope is linear.</td></tr><tr><td>X&#x3C;0</td><td>The range above the middle (0) is always 0. Below the middle (0), the slope is linear.</td></tr><tr><td>|X|</td><td>The range above the middle (0), the reaction is linear. The sign is inverted in the range below the middle (0). The curve draws a V-shaped graph.</td></tr><tr><td>f>0</td><td>The range above the middle (0) is always +100. The range below the middle (0) is always 0. The output value will always be either 0 or +100.</td></tr><tr><td>f&#x3C;0</td><td>The range above the middle (0) is always 0. The range below the middle (0) is always -100. The output value will always be either 0 or -100.</td></tr><tr><td>|f|</td><td>The range above the middle (0) is always +100. The range below the middle (0) is always -100. The output value will always be either +100 or -100.</td></tr></tbody></table>
