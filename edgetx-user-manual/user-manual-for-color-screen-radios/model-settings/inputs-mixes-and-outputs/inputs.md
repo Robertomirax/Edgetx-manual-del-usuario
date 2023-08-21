@@ -1,6 +1,7 @@
 # Inputs
 
-The **Inputs** screen of Model Settings is where you map your physical radio controls (for example: sticks, sliders, and pots) to a software input to be used by the radio.  After the control has been mapped it is then possible to apply modifiers to the inputs such as a weight, offset or curve which will then be applied anywhere that input is used. Although it is possible to also assign switches as inputs, it is normally not needed as switch outputs seldomly need to be modified by a weight, offset or curve. By default, EdgeTX will automatically map your contoller sticks to Aileron, Elevator, Throttle, Rudder based on the default channel order defined in [Radio Setup.](../../radio-settings/radio-setup/)
+En la pantalla **Inputs (entradas)** de Model Settings es donde se mapean los controles físicos de la radio, (por ejemplo: palancas, deslizadores, perillas) a una entrada del software. Luego de que los controles han sido mapeados, es posible aplicar modificadores a las entradas tales como ponderación (weight), desplazamiento (offset) o una curva que serán aplicados en todos los lugares donde la entrada sea usada. También es posible asignar interruptores como entradas.
+EdgeTX mapea automáticamente por defecto, las palancas de control como Alerones, Elevador, Acelerador y Timón. Basandose en el orden por defecto definido en [Radio Setup.](../../radio-settings/radio-setup/)
 
 {% hint style="info" %}
 Your input channels may default to a different order based on the settings defined in [Radio Setup](../../radio-settings/radio-setup/).
