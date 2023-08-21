@@ -1,13 +1,18 @@
 # Inputs, Mixes & Outputs
 
-To be able to support many different types of radio transmitters, EdgeTX uses a generic control data flow that can be applied to any radio transmitter. In this data flow, any of the radio's physical controls (sticks, switches, sliders, pots) can be mapped to an input in the software. These inputs can be directly assigned or combined with other inputs into a single mix. These mixes can be modified by applying weights, offsets, and curves and are then assigned a channel for output. Final adjustments to the control data are made (including subtrims, curves, endpoint, and center values) before finally sending the control data to the RF module. The flowchart below depicts a visual summary of this control data flow. Detailed information about the flow is provided in the following sections [Inputs](mixes.md), [Mixes](mixes.md), and [Outputs](outputs.md).
+Para poder soportar muchos tipos diferentes de radio-transmisores, EdgeTX usa un flujo de control de datos genérico que puede ser aplicado a cualquier transmisor.
+En este flujo de datos, cualquiera de los controles físicos de la radio, (palancas, interruptores, deslizadores, perillas) puede ser mapeada a una entrada en el software.
+Estas entradas pueden asignarse directamente o combinadas con otras entradas en una mezcla simple.
+Estas mezclas pueden modificarse aplicando una ponderación (weights), desplazamientos (offsets), y curvas (curves). Para ser asignadas a un canal de salida.
+Luego se hacen ajustes finales a los datos de control(incluyendo subtrims (sub-centrados) , curvas, extremos (endpoint) y valores centrales) antes de enviar la señal finalmente al módulo de RF.
+El siguiente diagrama da una idea del flujo de la señal. Más detallada información puede verse en las secciones [Inputs (entradas)](mixes.md), [Mixes (mezclas)](mixes.md), y [Outputs (salidas)](outputs.md).
 
-<figure><img src="../../../../.gitbook/assets/inputflow.jpg" alt=""><figcaption><p>Control data flow</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/inputflow.jpg" alt=""><figcaption><p>flujo de control de datos</p></figcaption></figure>
 
-EdgeTX uses the icons below to designate different types of sources.&#x20;
+EdgeTX usa los siguientes iconos para designar los diferentes tipos de orígenes.&#x20;
 
 <div align="center">
 
-<figure><img src="../../../../.gitbook/assets/inputicons.jpg" alt=""><figcaption><p>Source Icons</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/inputicons.jpg" alt=""><figcaption><p>Iconos de orígenes o fuentes</p></figcaption></figure>
 
 </div>

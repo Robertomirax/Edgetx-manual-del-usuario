@@ -24,9 +24,9 @@ La pantalla de configuración tiene las siguientes opciones:
 
 Modifier - Hay dos modificadores posibles **=** y **+.** El modificador **=** copia el mismo valor de trim del modo de vuelo seleccionado. El modificador **+** agrega el valor del modificador seleccionado al valor del modo de vuelo seleccionado.
 
-_Ejemplo 1:_ Si de está configurando FM1 y se ajusta el valor a =0, FM1 tendrá el valor del mismo trim de FM0. En este caso los cambios echos al trim en FM1 también afectarán al trim en FM0 y vice-versa.
+_Ejemplo 1:_ Si de está configurando FM1 y se ajusta el valor a (=0), FM1 tendrá el valor del mismo trim de FM0. En este caso los cambios echos al trim en FM1 también afectarán al trim en FM0 y vice-versa.
 
-_Ejemplo 2:_ Si se está configurando FM1 y se ajusta el valor a +0, FM1 tendrá el mismo valor para el mismo trim  que en FM0 mas cualquier cambio que se haga en FM1, En este caso los cambios echos en el trim en FM1, no afectarán el trim en FM0. Sin embargo, los cambios echos en los valores de trim en FM0, afectarán los valores del trim en FM1.
+_Ejemplo 2:_ Si se está configurando FM1 y se ajusta el valor a (+0), FM1 tendrá el mismo valor para el mismo trim  que en FM0 mas cualquier cambio que se haga en FM1, En este caso los cambios echos en el trim en FM1, no afectarán el trim en FM0. Sin embargo, los cambios echos en los valores de trim en FM0, afectarán los valores del trim en FM1.
 
 {% hint style="info" %}
 Si se desactiva el trim (fondo blanco), no será posible ajustar este trim en la pantalla principal.
