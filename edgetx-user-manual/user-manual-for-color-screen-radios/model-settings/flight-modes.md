@@ -2,32 +2,32 @@
 
 <figure><img src="../../../.gitbook/assets/FM1.png" alt=""><figcaption><p>página de modos de vuelo</p></figcaption></figure>
 
-Flight modes allow you to have different trim settings for each flight mode. Once multiple flight modes are configured, you can adjust the trim settings in each flight mode without affecting the trim settings in other flight modes (unless they are configured to do so). There are 9 possible flight modes to use, with Flight Mode 0 being the default flight mode.
+En la pantalla Flight modes (modos de vuelo) se pueden configurar diferentes ajustes de los trim (centradores) para cada modo de vuelo. Una vez que se han configurado varios modos de vuelo, pueden ajustarse las configuraciones de los trim (centradores) para cada modo sin afectar, las configuraciones en otros modos ( a menos que se haya configurado para que así sea). Hay 9 modos de vuelo posibles. El modo de vuelo 0 es el modo por defecto.
 
-The **Flight Mode** screen displays an overview of each flight mode. The highlighed flight mode designates the active flight mode. Selecting a flight mode will take you to the configuration page for that flight mode.
+La pantalla **Flight Modes** es una vista de cada uno de los modos. El modo que aparece destacado, es el activo. Al seleccionar un modo, aparecerá la página de configuración de ese modo.
 
-**Check FM Trims:** When the check FM trims button is pressed, the trims for the current flight mode are temporarily disabled. This is used to test the impact of the current flight mode’s trims on the outputs.
+**Check FM Trims:** Cuando se activa el botón check FM trims, Los trims (centradores) para el modo de vuelo actual, son temporalmente deshabilitados. Esto se utiliza para evaluar el impacto de los ajustes de trim de este modo de vuelo en las salidas.
 
-<figure><img src="../../../.gitbook/assets/FM2.png" alt=""><figcaption><p>Flight Mode configuration page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/FM2.png" alt=""><figcaption><p>Página de configuración de un modo de vuelo</p></figcaption></figure>
 
-The flight mode conifiguration screen has the following options:
+La pantalla de configuración tiene las siguientes opciones:
 
-**Name:** The custom name for the flight mode. If configured, this name will be shown on the lower center position of the main screen between the trims.
+**Name (nombre):** El nombre personalizado para cada modo. Si se encuentra configurado, este nombre aparecerá en la parte baja al centro de la pantalla principal entre los trims (centradores).
 
-**Switch:** The trigger to enable that flight mode. It can be a switch, pot, telemetry, trim or logical switch.
+**Switch:** El interruptor, perilla, telemetría, trim o interruptor lógico que habilitará este modo.
 
-**Fade in:** Gradually change the trim value when this flight mode is enabled. Specify the time in seconds (0.0 - 25.0) until the value change is completed.
+**Fade in:** Cambia en forma gradual el valor del trim al activar este modo. Se debe especificar el tiempo en segundos que demorará en completar el cambio(0.0 - 25.0).
 
-**Fade out:** Gradually change the trim value when this flight mode is disabled. Specify the time in seconds (0.0 - 25.0) until the value change is completed.
+**Fade out:** Cambia en forma gradual el valor del trim al desactivar este modo. Se debe especificar el tiempo en segundos que demorará en completar el cambio(0.0 - 25.0).
 
-**Trims:** To configure the trims, select the trim that you want to configure to make sure that it is turned on (yellow). Then select the flight mode (**0-8**) that will provide the initial trim value and modifier (**=** or **+**) from the drop-down menu.
+**Trims:** Para configurar los trims, se debe seleccionar el que se desea configurar (se tornará el fondo amarillo cuando esté seleccionado). Luego de debe seleccionar el modificador (**=** o **+**) y el modo de vuelo que indicará el valor inicial (**0-8**).
 
-Modifier - there are two possible value modifiers **=** and **+.** The **=** modifier uses the trim value directly from the selected flight mode. The **+** modifier uses the trim value from the selected flight mode and then adds the trim value from the flight mode you are configuring.
+Modifier - Hay dos modificadores posibles **=** y **+.** El modificador **=** copia el mismo valor de trim del modo de vuelo seleccionado. El modificador **+** agrega el valor del modificador seleccionado al valor del modo de vuelo seleccionado.
 
-_Example 1:_ If you are configuring FM1 and set the value to =0, FM1 will have the trim value of the current value of the same trim in FM0. In this case, changes made to the trim in FM1 will also affect the trim in FM0 and vice-versa.
+_Ejemplo 1:_ Si de está configurando FM1 y se ajusta el valor a =0, FM1 tendrá el valor del mismo trim de FM0. En este caso los cambios echos al trim en FM1 también afectarán al trim en FM0 y vice-versa.
 
-_Example 2:_ If you are configuring FM1 and set the value to +0, FM1 will have the trim value of the same trim in FM0, plus any trim changes made while in FM1, In this case, changes made to the trim in FM1 do not affect the trim in FM0. However, changes to trim values FM0 will affect trim values in FM1.
+_Ejemplo 2:_ Si se está configurando FM1 y se ajusta el valor a +0, FM1 tendrá el mismo valor para el mismo trim  que en FM0 mas cualquier cambio que se haga en FM1, En este caso los cambios echos en el trim en FM1, no afectarán el trim en FM0. Sin embargo, los cambios echos en los valores de trim en FM0, afectarán los valores del trim en FM1.
 
 {% hint style="info" %}
-If the trim is turned off (white) on the Trims setup page, you will not be able to adjust it at all on the main screen.
+Si se desactiva el trim (fondo blanco), no será posible ajustar este trim en la pantalla principal.
 {% endhint %}
